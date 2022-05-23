@@ -4,6 +4,10 @@ Mi nombre es Felipe Briones, soy guionista, asesor de guiones y docente universi
 
 Acá pueden encontrar una serie de trabajos que he hecho en diferentes cursos, partiendo por HTML, CSS, JS y Bootstrap, pasando por jQuery y C#(por Unity), hasta llegar a frameworks de JS, como Vue, Angular y React. Mi objetivo actual es terminar la certificación de Angular, pasar a una especilización de React, terminar unos cursos de PHP y SQL, para luego dedicarme al curso de DevOps de IBM que está un coursera y otorga una certificación profesional. A mediano plazo, es terminar un curso de Unity que tengo a la mitad, junto con unas especiaizaciones de VR/XR. A largo plazo, desarrollar netamente en C++ y Unreal Engine. 
 
+En el siguiente link pueden encontrar un listado con todos los cursos que he hecho hasta el momento:
+
+https://www.linkedin.com/in/felipe-briones-8133b6212/details/certifications/
+
 Ojalá encuentren interesante lo que tengo acá.
 
 Saludos!
